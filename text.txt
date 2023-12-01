@@ -1,0 +1,13 @@
+=== Menu === 
+
+Home
+Features
+Pricing
+Button -- bg color #333836
+Contact
+
+=== Hero Section h1 ===
+
+Streamline
+Payment,
+Boost Efficiency
